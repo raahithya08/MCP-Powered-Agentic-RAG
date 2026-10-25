@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MCP-Powered Agentic RAG
 
 An intelligent AI question-answering system that searches internal knowledge first and uses web search as a fallback when the available information is insufficient.
@@ -78,3 +79,7 @@ Keep your `.env` files private and provide a `.env.example` file containing plac
 ## 👩‍💻 Project Status
 
 This project is under development. Features and implementation details may evolve as retrieval quality, fallback behavior, and the user experience are improved.
+=======
+# MCP-Powered-Agentic-RAG
+MCP-powered Agentic RAG with intelligent web fallback and a Jenkins, Docker, and Kubernetes CI/CD pipeline.
+>>>>>>> origin/main
